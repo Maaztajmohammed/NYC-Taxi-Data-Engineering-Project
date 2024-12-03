@@ -7,7 +7,7 @@ This project involves extracting NYC taxi data from an API and storing it in a d
 
 
 ## Data Architecture
-
+![Architecture](nyc_taxi data architecture.png)
 
 
 
